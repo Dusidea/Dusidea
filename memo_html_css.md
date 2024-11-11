@@ -95,3 +95,14 @@ Ensuite, deux underscores devant le nom de notre élément et deux tirets devant
 
 [OCSS&BEM](https://www.alsacreations.com/article/lire/1641-Bonnes-pratiques-en-CSS--BEM-et-OOCSS.html)
 
+###BEM : Block-element-modifier
+
+* Block : Standalone entity that is meaningful on its own.
+Examples : header, container, menu, checkbox, input
+
+* Element : A part of a block that has no standalone meaning and is semantically tied to its block.
+Examples : menu item, list item, checkbox caption, header title
+
+* Modifier : A flag on a block or element. Use them to change appearance or behavior.
+Examples ; disabled, highlighted, checked, fixed, size big, color yellow
+
