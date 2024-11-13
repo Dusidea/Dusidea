@@ -94,6 +94,7 @@ Pour le nommage des classes, tout se fait en minuscule, un tiret en guise de sé
 Ensuite, deux underscores devant le nom de notre élément et deux tirets devant le modificateur ?
 
 [OCSS&BEM](https://www.alsacreations.com/article/lire/1641-Bonnes-pratiques-en-CSS--BEM-et-OOCSS.html)
+###OCSS:  (Object Oriented CSS)
 
 ###BEM : Block-element-modifier
 
